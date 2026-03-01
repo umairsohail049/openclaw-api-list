@@ -2,6 +2,8 @@
 
 This repository curates **APIs that are productive for tying into [OpenClaw](https://openclaw.ai)** — the open-source, local-first personal AI assistant that runs on your own devices and connects to WhatsApp, Telegram, Slack, Discord, and more.
 
+**Start small.** Use the **[curated list (~100 APIs)](./OPENCLAW_RECOMMENDED.md)** first. Add more from the full list only when you need something specific — less overwhelming, same power.
+
 ---
 
 ## What is OpenClaw?
@@ -60,13 +62,14 @@ We **exclude** or deprioritize:
 
 ## How to Use This List with OpenClaw
 
-1. **Pick an API** from a category that fits your use case (e.g. [MCP Servers](./mcp-servers-apis-131/), [Integrations](./integrations-apis-890/), [Automation](./automation-apis-4825/)).
+1. **Start with the [curated list](./OPENCLAW_RECOMMENDED.md)** (~100 APIs) — MCP servers and key integrations. Pick 2–3, wire them, then add more as needed.
+2. **Or pick from a category** when you know what you want (e.g. [MCP Servers](./mcp-servers-apis-131/), [Integrations](./integrations-apis-890/), [Automation](./automation-apis-4825/)).
 2. **Create a skill** — In `~/.openclaw/workspace/skills/` or `~/.openclaw/skills/`, add a folder with a `SKILL.md` that:
    - Describes when the agent should use the API.
    - Declares `metadata.openclaw.primaryEnv` (or `requires.env`) for the API key.
    - Instructs the agent to call your tool (e.g. HTTP request to the API).
-3. **Configure the key** — In `~/.openclaw/openclaw.json`, under `skills.entries.<skillName>`, set `apiKey` or `env` so the key is injected at runtime.
-4. **Optional: Publish to ClawHub** — Share your skill so others can `clawhub install <skill>`.
+4. **Configure the key** — In `~/.openclaw/openclaw.json`, under `skills.entries.<skillName>`, set `apiKey` or `env` so the key is injected at runtime.
+5. **Optional: Publish to ClawHub** — Share your skill so others can `clawhub install <skill>`.
 
 For **MCP servers**, use OpenClaw’s MCP integration to attach the server; no skill is required for basic tool exposure.
 
