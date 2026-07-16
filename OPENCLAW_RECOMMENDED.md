@@ -57,7 +57,7 @@
 | [Zendesk MCP Server](https://apify.com/amaranth_nylon/zendesk-mcp-server-actor?fpr=p2hrc6) | Zendesk integration | Support tickets from chat |
 | [Mcp Research Server](https://apify.com/fiery_dream/mcp-research-server?fpr=p2hrc6) | Web + academic search, doc Q&A | “Research topic X” |
 | [MCP Reddit](https://apify.com/barudob/mcp-reddit?fpr=p2hrc6) | Reddit posts, search, sentiment | “What’s on Reddit for X” |
-| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter automation via MCP + API | “Search, monitor, or prepare X actions” |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter automation via MCP + API. Not affiliated with X Corp. | “Search, monitor, or prepare X actions” |
 | [Openapi To Mcp Converter](https://apify.com/theguide/openapi-to-mcp-converter?fpr=p2hrc6) | Turn any OpenAPI spec into MCP | Use any REST API as MCP |
 
 ---
